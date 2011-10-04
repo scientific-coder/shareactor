@@ -1,6 +1,19 @@
 # shareactor
 
 A website written in noir. 
+You want to be an actor in the sharing community ?
+Shareactor enables you to share socially (using social networks) and /
+or locally (with neighbours).
+
+You can (should!) Search and Offer things to share.
+A generic template with 
+** name
+** short description
+** long description (optional)
+** picture (optional)
+** coords (optional, defaults to your own if available)
+
+More specific templates to come (i.e. for books !)
 
 ## Usage
 
